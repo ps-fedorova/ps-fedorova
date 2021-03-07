@@ -19,8 +19,8 @@
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
 
 ### Contacs:
-![@fedorova_ps](https://img.shields.io/badge/@fedorova__p-black?style=flat-square&logo=telegram)
-![ps.fedorova@yandex.ru](https://img.shields.io/badge/ps.fedorova@yandex.ru-black?style=flat-square&logo=Mail.Ru)
+[![@fedorova_ps](https://img.shields.io/badge/@fedorova__p-black?style=flat-square&logo=telegram)](https://t.me/fedorova_ps)
+[![ps.fedorova@yandex.ru](https://img.shields.io/badge/ps.fedorova@yandex.ru-black?style=flat-square&logo=Mail.Ru)](mailto:ps.fedorova@yandex.ru)
 <!--
 **ps-fedorova/ps-fedorova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
