@@ -2,25 +2,25 @@
 
 ### Languages and Technologies:
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
-![Adobe Photoshop](https://img.shields.io/badge/adobe_Photoshop-black?style=for-the-badge&logo=Adobe-Photoshop)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=GitLab)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
-![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
+![HTML5](https://img.shields.io/badge/HTML5-rgba(255,255,255,0)?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-rgba(255,255,255,0)?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-rgba(255,255,255,0)?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-rgba(255,255,255,0)?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux-rgba(255,255,255,0)?style=for-the-badge&logo=Redux)
+![Node.js](https://img.shields.io/badge/Node.js-rgba(255,255,255,0)?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/Express-rgba(255,255,255,0)?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/MongoDB-rgba(255,255,255,0)?style=for-the-badge&logo=MongoDB)
+![Adobe Photoshop](https://img.shields.io/badge/adobe_Photoshop-rgba(255,255,255,0)?style=for-the-badge&logo=Adobe-Photoshop)
+![Figma](https://img.shields.io/badge/Figma-rgba(255,255,255,0)?style=for-the-badge&logo=Figma)
+![Git](https://img.shields.io/badge/Git-rgba(255,255,255,0)?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/GitHub-rgba(255,255,255,0)?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/GitLab-rgba(255,255,255,0)?style=for-the-badge&logo=GitLab)
+![Postman](https://img.shields.io/badge/Postman-rgba(255,255,255,0)?style=for-the-badge&logo=Postman)
+![Webpack](https://img.shields.io/badge/Webpack-rgba(255,255,255,0)?style=for-the-badge&logo=Webpack)
 
 ### Contacs:
-[![@fedorova_ps](https://img.shields.io/badge/@fedorova__p-black?style=flat-square&logo=telegram)](https://t.me/fedorova_ps)
-[![ps.fedorova@yandex.ru](https://img.shields.io/badge/ps.fedorova@yandex.ru-black?style=flat-square&logo=Mail.Ru)](mailto:ps.fedorova@yandex.ru)
+[![@fedorova_ps](https://img.shields.io/badge/@fedorova__p-rgba(255,255,255,0)?style=flat-square&logo=telegram)](https://t.me/fedorova_ps)
+[![ps.fedorova@yandex.ru](https://img.shields.io/badge/ps.fedorova@yandex.ru-rgba(255,255,255,0)?style=flat-square&logo=Mail.Ru)](mailto:ps.fedorova@yandex.ru)
 <!--
 **ps-fedorova/ps-fedorova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
