@@ -7,9 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_Photoshop-black?style=for-the-badge&logo=Adobe-Photoshop)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
@@ -17,6 +14,9 @@
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=GitLab)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
 
 ### Contacs:
 [![@fedorova_ps](https://img.shields.io/badge/@fedorova__p-black?style=flat-square&logo=telegram)](https://t.me/fedorova_ps)
